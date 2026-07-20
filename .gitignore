@@ -1,0 +1,6 @@
+target/
+heapdumps/
+*.hprof
+.idea/
+*.iml
+.DS_Store
